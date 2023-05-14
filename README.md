@@ -15,6 +15,8 @@ Este projeto faz parte do curso EAD de Análise e Desenvolvimento de Sistemas do
 
 O PetAdopt baseia-se na necessidade de aumentar as chances de animais abandonados e resgatados encontrarem um lar amoroso e responsável, através de uma plataforma que conecte de maneira fácil e intuitiva pessoas que desejam adotar animais com abrigos e organizações especializadas; além de contribuir na conscientização da importância da proteção dos animais e os efeitos causados pelo abandono e falta de planejamento.
 
+
+
 Tecnológias Utilizadas:
 
 - React.JS
